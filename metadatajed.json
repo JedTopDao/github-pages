@@ -1,0 +1,42 @@
+{
+  "name": "JED",
+  "symbol": "JED",
+  "description": "JED is a next-generation Solana token designed to drive innovation, democratize finance, and empower global communities through blockchain technology.",
+  "description_vi": "JED là token thế hệ mới trên nền tảng Solana, được thiết kế để thúc đẩy đổi mới, dân chủ hóa tài chính và trao quyền cho cộng đồng toàn cầu thông qua công nghệ blockchain.",
+  "image": "https://s3.ap-northeast-1.amazonaws.com/h.files/images/1748023829578_wtmLuoYeq8.png",
+  "banner": "https://s3.ap-northeast-1.amazonaws.com/h.files/images/1748023829578_wtmLuoYeq8.png",
+  "decimals": 9,
+  "external_url": "https://jetopdao.com",
+  "support_email": "supportjetopdao@gmail.com",
+  "created_at": "2025-05-25T12:00:00Z",
+  "updated_at": "2025-06-03T15:30:00Z",
+  "legal": "This token is not a security and does not represent ownership in any entity. Please perform your own due diligence before investing.",
+  "license": "MIT License",
+  "total_supply": "100000000",
+  "mint_locked": true,
+  "properties": {
+    "files": [
+      {
+        "uri": "https://s3.ap-northeast-1.amazonaws.com/h.files/images/1748023829578_wtmLuoYeq8.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "utility token"
+  },
+  "seller_fee_basis_points": 0,
+  "version": "1.0",
+  "contact": {
+    "email": "contact@jetopdao.com",
+    "support": "supportjetopdao@gmail.com"
+  },
+  "extensions": {
+    "website": "https://jetopdao.com",
+    "twitter": "https://x.com/jetopdao2025",
+    "facebook": "https://facebook.com/jetopdao2025",
+    "discord": "https://discord.gg/jetopdao2025",
+    "telegram": "https://t.me/jetopdao2025",
+    "github": "https://github.com/jetopdao2025",
+    "medium": "https://medium.com/@jetopdao2025",
+    "youtube": "https://youtube.com/@jetopdao2025"
+  }
+}
